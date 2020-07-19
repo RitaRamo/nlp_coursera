@@ -6,7 +6,7 @@ Learning is fun!
 
 # Course 1: [Natural Language Processing with Classification and Vector Spaces](https://www.coursera.org/learn/classification-vector-spaces-in-nlp)
 
-- Week 1: [Sentiment Analysis with Logistic Regression](course1/week1.md)
+- Week 1: [Sentiment Analysis with Logistic Regression](course1/week1.ipynb)
 - Week 2: 
 
  
